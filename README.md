@@ -30,7 +30,7 @@ I just graduated from a 9-week full-time intensive coding bootcamp at LeWagon Be
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)\n
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
 
 <!-- You can find more information about John's skills and projects on his [website](https://johndoe.com). -->
