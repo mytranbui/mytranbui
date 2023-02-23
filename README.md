@@ -1,4 +1,5 @@
-### Hi there 👋 This is My Tran Bui :)
+### Hi there 👋 
+This is My Tran Bui :)
 
 ## Table of Contents
 
@@ -21,7 +22,7 @@ I just graduated from a 9-week full-time intensive coding bootcamp at LeWagon Be
 
 ## Skills
 
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?logo=ruby-on-rails&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?logo=ruby-on-rails&logoColor=white)\n
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
